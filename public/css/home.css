@@ -1,0 +1,49 @@
+a{
+    font-size: larger;
+    text-decoration: none;
+    border: 2px black solid;
+}
+
+head{
+    background-color: black;
+}
+
+body{
+    /* background-image: url(../assets/TWOTM.jpg); */
+    background-color: lightseagreen;
+}
+
+/********** DETAIL **********/
+
+.detail {
+    margin: 20px auto auto auto;
+    
+    padding: 10px;
+    color: black;
+    width: 70%;
+    border: 2px solid black;
+    overflow: hidden;
+    padding: 20px 20px 20px 20px;
+}
+
+.img {
+    width: 25%;
+    float: left;
+
+}
+
+.content {
+    width: 75%;
+    float: right;
+   }
+
+.episode {
+    color: black;
+    margin: auto;
+    width: 70%;
+    padding: 20px 20px 20px 20px;
+}
+
+hr {
+    border-color: black;
+}
